@@ -4,11 +4,11 @@ This is an educational project for School21 where you can find an implementation
 Matrices are one of the basic data structures in programming, they are used to represent table values, for computational tasks and neural networks.
 
 Implementation includes basic matrice's operations:
-- create_matrix (creation), remove_matrix (cleaning and destruction), eq_matrix (comparison), \ 
-- sum_matrix (addition), sub_matrix (subtraction), \
-- mult_matrix (multiplication), mult_number (multiplication by number), \
-- transpose (transpose), determinant (calculation of determinant), \
-- calc_complements (calculation of matrix of algebraic complements), \
+- create_matrix (creation), remove_matrix (cleaning and destruction), eq_matrix (comparison)
+- sum_matrix (addition), sub_matrix (subtraction)
+- mult_matrix (multiplication), mult_number (multiplication by number)
+- transpose (transpose), determinant (calculation of determinant)
+- calc_complements (calculation of matrix of algebraic complements)
 - inverse_matrix (finding inverse of the matrix).
 
 The library is developed in C language of C11 standard using gcc compiler following the Google style. \
